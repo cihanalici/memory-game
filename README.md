@@ -1,4 +1,4 @@
-# Kodluyoruz Redux Eğitimi Contacts App Bölüm sonu ödevi
+# Memory card game Using Reactjs & Redux toolkit
 
 
 ## Dependencies
